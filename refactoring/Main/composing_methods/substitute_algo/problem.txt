@@ -1,0 +1,5 @@
+Problem: So you want to replace an existing algorithm with a new one?
+
+Solution: Replace the body of the method that implements the algorithm with a new algorithm.
+
+Goals: make new easy algorithm from hard algorithm

@@ -1,0 +1,5 @@
+problem: When a method body is more obvious than the method itself, use this technique.
+
+Solution: Replace calls to the method with the method’s content and delete the method itself.
+
+Goals: merge small method with simple/small algorithm to main method

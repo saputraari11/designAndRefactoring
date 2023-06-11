@@ -1,0 +1,5 @@
+problem: You have a temporary variable that’s assigned the result of a simple expression and nothing more. 
+
+Solution: Replace the references to the variable with the expression itself.
+
+Goals: merge small logic into main logic if main logic is small or not complex

@@ -1,0 +1,5 @@
+Problem: You have an expression that’s hard to understand.
+
+Solution: Place the result of the expression or its parts in separate variables that are self-explanatory.
+
+Goals: keep logic in a variable or separate the complex logic into small logic

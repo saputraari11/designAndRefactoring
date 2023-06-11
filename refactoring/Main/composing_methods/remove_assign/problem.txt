@@ -1,0 +1,5 @@
+problem: Some value is assigned to a parameter inside method’s body.
+
+Solution: Use a local variable instead of a parameter.
+
+Goals: create new variable for new formula and dont change value in any variable

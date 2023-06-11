@@ -1,0 +1,5 @@
+Problem: You have a long method in which the local variables are so intertwined that you can’t apply Extract Method.
+
+Solution: Transform the method into a separate class so that the local variables become fields of the class. Then you can split the method into several methods within the same class.
+
+Goals: create new object or method object for handle spesific logic application or another logic application. same as dependency injection

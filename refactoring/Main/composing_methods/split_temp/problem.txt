@@ -1,0 +1,7 @@
+Problem: You have a local variable that’s used to store various intermediate values inside a method (except for cycle variables). 
+
+Solution: Use different variables for different values. Each variable should be responsible for only one particular thing.
+
+Goals: variable must be responsible for only particular thing.
+
+note for variable: variable must be constant formula that concern the name of variable
